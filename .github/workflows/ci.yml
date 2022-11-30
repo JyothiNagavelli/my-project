@@ -32,7 +32,7 @@ jobs:
       uses: docker/build-push-action@v3.2.0
       with:
         image: rithu1320/nana-app
-        registry: docker.io
+        registry: docker.io/rithu1320
         username: rithu1320
         password: jyothi3113
          
